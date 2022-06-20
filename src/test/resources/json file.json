@@ -1,0 +1,9 @@
+{
+  "firstName": "Leonid",
+  "lastName": "Zatulovskii",
+  "address": {
+    "streetAddress": "ulitsa Pushkina",
+    "city": "Pushkin",
+    "country": "Russia"
+  }
+}
